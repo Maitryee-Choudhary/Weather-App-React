@@ -1,2 +1,2 @@
 # Weather-App-React
-Live Search Weather using API.
+Fetch Live Search Weather using API.
